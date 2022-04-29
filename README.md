@@ -1,1 +1,1 @@
-# ML_Data_exercises
+# Here are some exercises of practicing machine learning and data processing skills.
